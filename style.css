@@ -112,10 +112,10 @@ body{
 
 .sale-image__offer{
     background-color:#fff;
-    width: 30%;
+    width: 35%;
     position: absolute;
-    top: 150px;
-    left: 40px;
+    top: 10%;
+    left: 10%;
     padding: 20px;
     animation-name: zoom;
     animation-duration: 2s;
